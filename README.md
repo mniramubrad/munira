@@ -1,8 +1,7 @@
 <h2 align="center">🌸 Welcome to My World 🌸</h2>
 <p align="center"> Senior IT student at Arab Open University 🎓</p>
 <p align="center"> 
-  > A tech girl who loves soft designs and smart ideas 💡  
-  > Member of GDGs & AI Club 🤍 </p>
+   A tech girl who loves soft designs and smart ideas 💡 |  Member of GDGs & AI Club 🤍 </p>
 
 ---
 
