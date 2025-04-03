@@ -30,8 +30,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)  
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-lightgrey?style=flat-square)  
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&style=flat-square)
----
 
+---
 
 ### Let’s Connect! 💬
 
@@ -42,3 +42,4 @@
 ---
 
 <p align="center">Made with 💗 by Mimi</p>
+
