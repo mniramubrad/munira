@@ -5,14 +5,14 @@
 
 ---
 
-### 📌 About Me
+### About Me 📌
   
 - 💻 Interested in Web Development, AI & Smart Solutions  
 - 🌷 I believe tech can be helpful *and* cute  
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools 🔧
 
 **Languages:**  
 
@@ -29,11 +29,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=flat-square)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)  
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-lightgrey?style=flat-square)
-
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&style=flat-square)  
 ---
 
 
-### 💬 Let’s Connect!
+### Let’s Connect! 💬
 
 📩 Email: mniraalmubrad@email.com    
 💼 LinkedIn: [Munirah AlMobrad](https://www.linkedin.com/in/munirah-almobrad/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
